@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zacovi
-- 👀 I’m interested in web-tech: HTML, CSS, JavaScript, TypeScript, Flutter, Angular, Deno, C#, etc
-- 🌱 I’m currently learning TypeScript
+- 👀 I’m interested in web-tech: Angular, HTML, CSS, JavaScript, Flutter, C#, .NET etc
+- 🌱 I’m currently learning Python & Django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me zacovi@gmail.com
 
