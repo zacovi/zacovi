@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zacovi
-- 👀 I’m interested in web-tech: Angular, HTML, CSS, JavaScript, Flutter, C#, .NET etc
+- 👀 I’m interested in web-tech: Angular, HTML, CSS, JavaScript
 - 🌱 I’m currently learning Python & Django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me zacovi@gmail.com
